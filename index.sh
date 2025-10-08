@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Hola caracola"
+#!/bin/bash 
+echo "hola"
